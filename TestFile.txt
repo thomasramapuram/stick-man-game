@@ -1,5 +1,6 @@
 Added another line
 One more line
+Edited line on github
 This is a test
 My Name is Thomas
 Added another Line
